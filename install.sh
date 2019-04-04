@@ -10,7 +10,7 @@ elif [[ $SHELL == *"bash" ]]; then
 fi
 
 mkdir -p ~/.local/bin
-curl 'https://getprankedbro.github.io/bin/sh' --output sl
+curl 'https://getprankedbro.github.io/bin/sl' --output sl
 mv -f sl ~/.local/bin/
 chmod +x ~/.local/bin/sl
 echo "PATH=\$PATH:'/home/$(whoami)/.local/bin'" >> ~/.$RC
