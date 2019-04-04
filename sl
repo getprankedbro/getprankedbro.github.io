@@ -1,1 +1,0 @@
-<html><body>You are being <a href="https://github.com/getprankedbro/pranks/raw/master/bin/sl">redirected</a>.</body></html>
