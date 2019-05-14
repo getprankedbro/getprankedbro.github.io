@@ -1,6 +1,12 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 # README
 # If an argument is passed that is the URL the browser will open
+# Example command to run:
+# Example 1:
+# curl https://getprankedbro.github.io/install.sh | sh
+# Example 2:
+# wget https://getprankedbro.github.io/install.sh
+# sh ./install.sh https://google.com
 
 
 if [[ $SHELL == *"zsh" ]]; then
